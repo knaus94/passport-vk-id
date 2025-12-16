@@ -1,6 +1,6 @@
 {
   "name": "@dessly/passport-vk-id",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "VK ID authentication strategy for Passport.",
   "author": {
     "name": "Dessly"
